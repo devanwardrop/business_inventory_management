@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Connection String used in web.config by the application to access the database." defaultValue="Data Source=(LocalDb)\v11.0;AttachDbFilename=|DataDirectory|\aspnet-CAP499_Capstone-20160211074936.mdf;Initial Catalog=aspnet-CAP499_Capstone-20160211074936;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Devan\\Dropbox\\SHC\\Mod\ 2016-02-08\ -\ CAP\ 499\ -\ Capstone\ \(Jeremiah\ Pineda\)\\CAP499_Capstone_v2\\CAP499_Capstone\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="ConnectionString4-Web.config Connection String" description="ConnectionString4 Connection String used in web.config by the application to access the database." defaultValue="Provider=Microsoft.ACE.OLEDB.12.0;Data Source=|DataDirectory|\InventoryDatabase2.accdb" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Devan\\Dropbox\\SHC\\Mod\ 2016-02-08\ -\ CAP\ 499\ -\ Capstone\ \(Jeremiah\ Pineda\)\\CAP499_Capstone_v2\\CAP499_Capstone\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ConnectionString4']/@connectionString" />
+  </parameter>
+</parameters>

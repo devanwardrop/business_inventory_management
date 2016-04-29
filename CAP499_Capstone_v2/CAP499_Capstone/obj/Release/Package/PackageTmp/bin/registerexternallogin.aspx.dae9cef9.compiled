@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Account/RegisterExternalLogin.aspx" hash="fffffff4185a804e" filehash="69e671a56320a613" flags="110000" assembly="App_Web_ayaxsjfi" type="ASP.account_registerexternallogin_aspx">
+    <filedeps>
+        <filedep name="/Account/RegisterExternalLogin.aspx" />
+        <filedep name="/Site.Master" />
+    </filedeps>
+</preserve>

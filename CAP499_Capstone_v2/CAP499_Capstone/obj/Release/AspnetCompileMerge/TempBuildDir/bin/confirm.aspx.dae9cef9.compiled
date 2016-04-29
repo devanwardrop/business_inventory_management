@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Account/Confirm.aspx" hash="fffffff4185a804e" filehash="a0f0d92e2a242ce5" flags="110000" assembly="App_Web_ayaxsjfi" type="ASP.account_confirm_aspx">
+    <filedeps>
+        <filedep name="/Account/Confirm.aspx" />
+        <filedep name="/Site.Master" />
+    </filedeps>
+</preserve>

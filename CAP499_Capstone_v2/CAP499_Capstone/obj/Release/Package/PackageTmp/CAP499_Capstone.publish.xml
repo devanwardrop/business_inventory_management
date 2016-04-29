@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<publishData>
+  <publishProfile
+    publishUrl="https://devan2425-001-site1.ctempurl.com:8172/msdeploy.axd"
+    msdeploySite="devan2425-001-site1"
+    destinationAppUrl="http://devan2425-001-site1.ctempurl.com/"
+    profileName="Default Settings"
+    publishMethod="MSDeploy"
+    userName="ifc\devan2425-001" />
+</publishData>
